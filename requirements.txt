@@ -6,6 +6,7 @@ scipy
 numpy
 matplotlib
 pandas
+tensorflow==2.7.0
 
 # Linting/Tooling
 pylint
